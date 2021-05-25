@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/kohei/azure/authentication_with_spa/ms-identity-javascript-angular-tutorial/3-Authorization-II/2-call-api-b2c/API/TodoListAPI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "TodoListAPI",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
