@@ -65,10 +65,8 @@ The HTTPS developer certificate was generated successfully.
 > dotnet run
 ```
 
-<b>★↓要修正</b>
-
 JWT を取得してから Web API からレスポンスが返ってくるまでの動作イメージは下図の通り。
-![alt text](./images/auth_flow.png)
+![alt text](./ms-identity-javascript-angular-tutorial/3-Authorization-II/1-call-api/ReadmeFiles/topology.png)
 
 
 ## Microsoft Identity Platform とは
